@@ -1,4 +1,4 @@
-# 🚀 Apresentação do Meu Perfil Tech
+
 
 Olá! 👋 Sou **Victor Teixeira**, Olá! 👋 Sou Victor Teixeira, formado em Análise e Desenvolvimento de Sistemas. Busco migrar para área de Análise de Dados! Apaixonado por transformar dados em decisões inteligentes.
 
