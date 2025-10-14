@@ -32,7 +32,7 @@ Olá! 👋 Sou **Victor Teixeira**, Olá! 👋 Sou Victor Teixeira, formado em A
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorteixeira&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=texwork&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorteixeira&layout=compact&theme=radical)
 
 ---
