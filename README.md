@@ -37,6 +37,6 @@
 
 ## 📫 Vamos Conectar!
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/victorteixeira.lc)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)]([https://www.dio.me/users/victorteixeira.lc](https://web.dio.me/users/victorteixeira_lc?tab=achievements))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-teixeira-lima-costa-43bb13300/)
 [![E-mail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:victorteixeira.lc@gmail.com)
